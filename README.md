@@ -3,6 +3,10 @@
 🍵 I’m curious about everything from algorithms to aesthetics, and I love using CS as a toolkit to solve <br/> problems and create fun, meaningful projects! <br/> 
 🌷 I’m currently learning about React Native and App Development. <br/> 
 🎧 I like to spend my free time thrifting, working out, and being a [podcast](https://redcircle.com/shows/the-bookish-besties) host! <br/>
+
+![1saharabid's Stats](https://github-readme-stats.vercel.app/api?username=1saharabid&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![1saharabid's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1saharabid&theme=algolia&hide_border=false)
+
 <!--
 **1saharabid/1saharabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
