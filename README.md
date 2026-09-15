@@ -1,7 +1,7 @@
 ## Hi, I'm Sahar ⋆˙⟡ 
-🌟 I'm in my second year studying computer science at Arizona State University. <br/> 
+🌟 I'm in my third year studying computer science at Arizona State University. <br/> 
 🍵 I’m curious about everything from algorithms to aesthetics, and I love using CS as a toolkit to solve <br/> problems and create fun, meaningful projects! <br/> 
-🌷 I’m currently learning about React Native and App Development. <br/> 
+🌷 I’m currently learning about Web App Development. <br/> 
 🎧 I like to spend my free time thrifting, working out, and being a [podcast](https://redcircle.com/shows/the-bookish-besties) host! <br/>
 
 ![1saharabid's Stats](https://github-readme-stats.vercel.app/api?username=1saharabid&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
