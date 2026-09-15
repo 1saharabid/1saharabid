@@ -4,7 +4,6 @@
 🌷 I’m currently learning about Web App Development. <br/> 
 🎧 I like to spend my free time thrifting, working out, and being a [podcast](https://redcircle.com/shows/the-bookish-besties) host! <br/>
 
-![1saharabid's Stats](https://github-readme-stats.vercel.app/api?username=1saharabid&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
 
 <!--
 **1saharabid/1saharabid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
